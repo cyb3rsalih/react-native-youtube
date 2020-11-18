@@ -1,6 +1,6 @@
 {
   "name": "react-native-youtube-portrait-mode-enabled",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "An extended <YouTube/> component for React Native which portrait mode enabled.",
   "main": "main.js",
   "types": "main.d.ts",
