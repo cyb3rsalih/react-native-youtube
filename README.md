@@ -32,7 +32,7 @@ Expand ‘app > manifests’ , there might be two files with same name as ‘And
 Note: Don't care about `YTPlayer not found` error. Just build!
 
 ## Thanks
-- MriDx (https://medium.com/@mridx/youtubestandaloneandroid-play-youtube-videos-in-portrait-mode-in-android-react-native-hack-edd0fdce6088)
+- [MriDx](https://medium.com/@mridx/youtubestandaloneandroid-play-youtube-videos-in-portrait-mode-in-android-react-native-hack-edd0fdce6088)
 - Param Aggarwal (paramaggarwal@gmail.com)
 - David Ohayon ([@davidohayon669](https://twitter.com/davidohayon669))
 
