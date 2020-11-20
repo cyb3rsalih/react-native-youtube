@@ -14,7 +14,11 @@ just remove the old one with
 
 ` yarn remove react-native-youtube ` then rebuild your project
 
-change your import names as new package
+change your import names from `react-native-youtube` to `react-native-youtube-portrait-mode-enabled` 
+
+And because of you uninstalled the old package, you should run
+`pod install` to add `XCDYouTubeKit` to pod.
+
 
 ## Extra install requirement
 
